@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_here_to_login_now">Click here to Login now</string>
+    <string name="not_yet_registered_sign_up_now">Not yet registered? Sign up now</string>
+</resources>
